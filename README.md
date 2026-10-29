@@ -2,7 +2,7 @@
 
 A self-contained, browser-based cybersecurity learning tool for preparing for the Kratikal Tech interview. It covers VAPT, OWASP, networking, Linux and more, with progress tracking and a built-in study chatbot.
 
-**Live demo:** _coming soon_
+**Live demo:** <https://cyberprep-kratikal.vercel.app>
 
 ## Features
 
